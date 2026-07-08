@@ -136,9 +136,3 @@ Pivot_Monthly_Ratings
 ![Dashboard](dashboard.png)
 
 
-
-
-
-**Kanishka Rani**
-
-If you found this project useful, feel free to ⭐ the repository.
